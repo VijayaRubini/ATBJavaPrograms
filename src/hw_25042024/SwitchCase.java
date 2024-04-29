@@ -1,6 +1,5 @@
 package hw_25042024;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class SwitchCase {
@@ -23,25 +22,22 @@ public class SwitchCase {
 
 
         System.out.println("Enter the arithmetic operation need to be performed : +,-,*,/,%");
-        String operator= sc.next();
-        switch (operator)
+        String sym;
+        sym = sc.next();
+        //String sym= sc.nextLine();
+        switch (sym)
         {
-            case " +"  :
+            case "+"  :
                 System.out.println(num1+num2);
-
                 break;
 
-            case " - " :
+            case "-" :
                 System.out.println(num1-num2);
                 break;
-
-                case " *" :
+                case "*":
                     System.out.println(num1*num2);
-
                     break;
-
                     case "/" :
-
                         System.out.println(num1/num2);
                     break;
 
@@ -55,7 +51,7 @@ public class SwitchCase {
 
         }
 
-
+        sc.close();
 
 
     }
