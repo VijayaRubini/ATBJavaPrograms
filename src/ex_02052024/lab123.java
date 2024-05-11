@@ -11,6 +11,8 @@ public class lab123 {
         System.out.println(ages[2]);
         System.out.println(ages[3]);
         System.out.println(ages[4]);
+        System.out.println(ages[2]);
+
         System.out.println(ages.length); // length is 5, and index from 0 to 4
         //System.out.println(ages[5]); //ArrayIndexOutofBoundException
         //System.out.println(ages[-1]); // index cannot be in negative. starts from 0 only
