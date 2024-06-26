@@ -1,4 +1,4 @@
-package May2024.ex_21052024.Abstraction.RealEx;
+package May2024.ex_21052024.Abstraction.Abstract.RealEx;
 
 public class TC2_Firefox extends BaseClass{
 

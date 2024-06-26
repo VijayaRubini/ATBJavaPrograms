@@ -1,4 +1,4 @@
-package May2024.ex_21052024.Abstraction.RealEx;
+package May2024.ex_21052024.Abstraction.Abstract.RealEx;
 
 public class lab195 {
     public static void main(String[] args) {

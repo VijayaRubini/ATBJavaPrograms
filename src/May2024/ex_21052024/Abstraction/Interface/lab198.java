@@ -1,4 +1,4 @@
-package May2024.ex_21052024.Interface;
+package May2024.ex_21052024.Abstraction.Interface;
 
 public class lab198 {
     public static void main(String[] args) {

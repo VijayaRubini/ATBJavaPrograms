@@ -1,4 +1,4 @@
-package May2024.ex_21052024.Abstraction;
+package May2024.ex_21052024.Abstraction.Abstract;
 
 public class lab194 {
     //Abstraction

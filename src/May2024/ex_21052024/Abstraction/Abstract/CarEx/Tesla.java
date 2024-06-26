@@ -1,4 +1,4 @@
-package May2024.ex_21052024.Abstraction.CarEx;
+package May2024.ex_21052024.Abstraction.Abstract.CarEx;
 
 public class Tesla extends Car{
 
