@@ -7,5 +7,12 @@ public class lab198 {
         c1.startEngine();
         c1.applyBrake();
         c1.stopEngine();
+
+        //default methods
+        c1.haltEngineJustStart();
+        c1.haltEngineJustStop();
+
+        //static
+       // Engine.m1();
     }
 }
