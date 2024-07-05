@@ -13,7 +13,7 @@ public class lab208 {
         abc.m1();
 
         I1 i1=new I1(){
-            void m2(){
+            public void m2(){
                 System.out.println("M2");
             }
         };
